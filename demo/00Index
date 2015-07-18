@@ -1,3 +1,5 @@
 ThermocoupleVoltages	Graphic with Thermoelectric EMFs for Thermocouples B, E, J, K, N, R, S, T
 SeebeckCurves	Graphic with Seebeck Curves by Thermocouple Type
+ObservedPropertiesLiquidHeliumSaturatedVaporPressure	Observed Properties of Liquid Helium at the Saturated Vapor Pressure
+T-T90computedByDifferentFunctions	T-T90 as computed by different functions
 

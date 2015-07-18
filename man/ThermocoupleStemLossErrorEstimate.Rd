@@ -29,4 +29,4 @@ International Society of Automation (ISA)
 data(ThermocoupleStemLossErrorEstimate)
 str(ThermocoupleStemLossErrorEstimate)
 }
-\keyword{datasets}
+\keyword{programming}
